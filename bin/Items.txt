@@ -1,0 +1,5 @@
+4
+Heiltrank klein,250,30,0,true,0,res/heiltrank.png,res/heal1.mid
+Heiltrank mittel,400,50,0,true,0,res/heiltrank.png,res/heal1.mid
+Heiltrank gross,1000,70,0,true,0,res/heiltrank.png,res/heal1.mid
+Energietrank klein,250,0,30,true,0,res/heiltrank.png,res/heal1.mid
